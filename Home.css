@@ -1,0 +1,17 @@
+.heading{
+    display:flex;
+    flex:wrap;
+    justify-content: space-between;
+    background-color: black;
+    padding-left:500px;
+    font-size: 20px; 
+    font-family: cursive;
+    font-weight: 400;
+    color: white;
+}
+
+body{
+    background-color: rgb(224, 195, 231);
+ 
+    font-family: 'Gisha';
+}

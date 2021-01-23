@@ -1,0 +1,39 @@
+body{
+
+ background:url(header.jpg) no-repeat ;
+    height: 100vh;
+    background-size:cover;
+    background-position: center;
+}
+    
+.menu{
+    
+    justify-content: space-evenly;
+   
+    font-family: 'cambria';
+    font-size: large;
+    color: white;
+}
+
+.home:hover p{
+    opacity:0.5;
+}
+.infrastructure:hover p{
+    opacity:0.5;
+}
+.products:hover p{
+    opacity:0.5;
+}
+p{
+    color: #f40049;
+}
+h2{
+    padding-left: 250px;
+    padding-top: 70px;
+    color: rgb(56, 162, 233);
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 30px;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px black;
+}
